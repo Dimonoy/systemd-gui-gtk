@@ -1,6 +1,13 @@
 build/
 dist/
+sdist/
+bdist/
+target/
+
 __pycache__/
 *.egg-info/
-venv/
+*.egg
 pip-wheel-metadata/
+
+venv/
+.idea/
