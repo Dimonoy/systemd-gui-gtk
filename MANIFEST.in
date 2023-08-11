@@ -1,0 +1,2 @@
+recursive-include src/systemd_gui_gtk/etc *.yaml
+recursive-include src/systemd_gui_gtk/ui *.glade
