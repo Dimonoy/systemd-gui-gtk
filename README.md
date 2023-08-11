@@ -32,7 +32,7 @@ Install project from the built distribution tar gzip:
 ```bash
 $ pip install dist/<file-name>.tar.gz
 ```
-> [__WARNING__] Currently supports only python package, rpm build is planned.
+> [__WARNING__] Make sure to exit from the virtual environment for package to be installed in the global site-packages.
 
 ## Usage
 To run CLI version of the application:
