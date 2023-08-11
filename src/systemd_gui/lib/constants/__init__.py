@@ -1,0 +1,16 @@
+"""Initializes constants.
+"""
+from .paths import APPLICATION_PATH, PROJECT_ROOT_PATH, ABOUT_PATH
+from .paths import CONFIGS_PATH, SETTINGS_PATH, DEFAULT_SETTINGS_PATH
+from .widgets import WIDGETS
+
+
+__all__ = (
+    APPLICATION_PATH,
+    PROJECT_ROOT_PATH,
+    ABOUT_PATH,
+    CONFIGS_PATH,
+    SETTINGS_PATH,
+    DEFAULT_SETTINGS_PATH,
+    WIDGETS,
+)
