@@ -1,0 +1,25 @@
+app:
+  id: ru.red-soft.SystemdGui
+  name: Systemd Gui
+toolbar:
+  show: 1
+
+units_filters:
+  user:
+    checked: 0
+  unloaded:
+    checked: 0
+  inactive:
+    checked: 0
+  masked:
+    checked: 0
+
+units_table:
+  load_state_column:
+    show: 1
+  active_state_column:
+    show: 1
+  sub_state_column:
+    show: 1
+  description_column:
+    show: 1
