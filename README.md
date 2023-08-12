@@ -15,6 +15,7 @@ Software for managing systemd through user interface. The application is built u
 2) Prepare python virtual environment:
 ```bash
 $ python -m venv <virtual-environment-name>
+$ source venv/bin/activate
 ```
 
 3) Install requirements:
