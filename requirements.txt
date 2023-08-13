@@ -4,5 +4,4 @@ pycairo==1.15.3
 PyGObject==3.36.1
 pyproject-hooks==1.0.0
 PyYAML==6.0.1
--e git+https://github.com/Dimonoy/systemd-gui-gtk.git@c01bfbc331ba1292b5590d9605ed13d44e2b2f0b#egg=systemd_gui
 tomli==2.0.1
