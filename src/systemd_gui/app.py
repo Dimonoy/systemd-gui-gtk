@@ -268,9 +268,9 @@ class Application(Gtk.Application):
         self.builder.connect_signals(self.signals)
 
     def do_activate(self):
-        """On application activation (after startup) run initializations.
+        """On application activation (after startup) runs initializations.
 
-        Initialize:
+        Initializes:
             - window;
             - view options;
             - units filters.
